@@ -1,0 +1,9 @@
+D:\PNhung_BTVN\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\PNhung_BTVN\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\PNhung_BTVN\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
